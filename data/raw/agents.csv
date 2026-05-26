@@ -1,0 +1,101 @@
+Agent_ID,Agent_Name,Team,Shift,Experience_Years,Specialisation,Hire_Date,Is_Senior
+AGT001,Ricky Salinas,Transactions,Morning,7,App Technical Issue,2023-05-07,1
+AGT002,Heather Vasquez,Transactions,Night,4,Loan Query,2023-08-22,0
+AGT003,Gregory Cox,Technical Support,Night,8,Refund Request,2023-12-16,0
+AGT004,James Wright,Cards & Payments,Night,5,Account Locked,2019-10-07,1
+AGT005,Timothy Mendez Jr.,Cards & Payments,Afternoon,7,Refund Request,2018-08-21,0
+AGT006,David Simmons,Cards & Payments,Night,10,Payment Failure,2023-09-12,0
+AGT007,Roger Lara,Transactions,Night,3,Fraud Alert,2018-11-25,0
+AGT008,Amy Bell,Fraud & Security,Afternoon,7,Fraud Alert,2020-02-01,1
+AGT009,Kristen Hill,Transactions,Night,8,Payment Failure,2018-10-08,0
+AGT010,John Knight,Fraud & Security,Afternoon,5,Loan Query,2018-10-06,0
+AGT011,Connie Stone,KYC & Compliance,Afternoon,4,Transaction Dispute,2020-08-21,1
+AGT012,Phillip Malone,Transactions,Morning,8,General,2022-07-12,1
+AGT013,Kevin Turner,Transactions,Morning,8,Account Locked,2019-05-07,0
+AGT014,Miranda Martin,Transactions,Night,3,Fraud Alert,2020-10-05,0
+AGT015,Elizabeth Thomas,Cards & Payments,Afternoon,6,General,2018-06-12,0
+AGT016,Lisa Lara,Cards & Payments,Morning,5,Fraud Alert,2018-12-02,0
+AGT017,Steve Rivas,Fraud & Security,Morning,2,Transaction Dispute,2022-09-14,0
+AGT018,Elizabeth Hernandez,Fraud & Security,Morning,8,Payment Failure,2023-11-12,0
+AGT019,Carol Callahan,Transactions,Morning,6,Transaction Dispute,2021-07-19,0
+AGT020,Kari Hopkins,Fraud & Security,Night,2,Fraud Alert,2020-12-04,0
+AGT021,Mrs. Kayla Davis,Cards & Payments,Morning,5,Payment Failure,2020-04-16,0
+AGT022,Daniel Mueller,Fraud & Security,Night,1,Transaction Dispute,2021-07-10,0
+AGT023,Tanya Castro,KYC & Compliance,Afternoon,10,Loan Query,2020-09-04,0
+AGT024,Jessica Douglas,Cards & Payments,Night,6,Payment Failure,2020-12-23,0
+AGT025,Brittany Farrell,KYC & Compliance,Morning,9,Account Locked,2022-06-10,0
+AGT026,Tabitha Hughes,Fraud & Security,Afternoon,1,Fraud Alert,2019-06-21,0
+AGT027,Karen Lindsey,Technical Support,Afternoon,10,KYC Verification,2021-05-13,0
+AGT028,Kimberly Benjamin,Transactions,Night,3,Refund Request,2023-02-16,0
+AGT029,Jamie Evans,Cards & Payments,Afternoon,7,Fraud Alert,2021-07-19,0
+AGT030,Monica Cummings,KYC & Compliance,Night,4,Account Locked,2018-10-25,0
+AGT031,William Cooper,Technical Support,Afternoon,9,Card Blocked,2018-02-08,0
+AGT032,Carmen Petersen,Technical Support,Night,3,General,2023-02-21,0
+AGT033,Jared Cox,Cards & Payments,Morning,5,General,2019-02-14,0
+AGT034,Katherine Kelly,Cards & Payments,Night,3,Refund Request,2018-10-28,0
+AGT035,Jessica Evans,Technical Support,Night,7,Fraud Alert,2020-05-23,1
+AGT036,James Sloan,Transactions,Morning,5,Refund Request,2023-09-04,0
+AGT037,Nicholas Harris,Transactions,Night,9,App Technical Issue,2020-12-22,0
+AGT038,Justin Morgan,KYC & Compliance,Night,7,Fraud Alert,2019-06-27,0
+AGT039,Kevin Bauer,Transactions,Afternoon,2,Payment Failure,2021-11-30,1
+AGT040,Cynthia Roberts,Technical Support,Night,4,Payment Failure,2018-10-09,0
+AGT041,Peter Gray,Technical Support,Afternoon,9,App Technical Issue,2020-09-27,0
+AGT042,Christopher Howard,Fraud & Security,Morning,2,Loan Query,2022-02-22,1
+AGT043,Eileen Burns,Technical Support,Afternoon,10,App Technical Issue,2021-03-13,0
+AGT044,Annette Lee,Transactions,Afternoon,9,App Technical Issue,2019-10-09,1
+AGT045,Dalton Klein,KYC & Compliance,Morning,10,Refund Request,2022-11-30,1
+AGT046,Daniel Martinez,Fraud & Security,Afternoon,5,Transaction Dispute,2021-05-24,0
+AGT047,Eric Stevens,Transactions,Morning,2,Payment Failure,2023-12-07,0
+AGT048,Briana Hunt,KYC & Compliance,Night,4,Transaction Dispute,2018-02-02,0
+AGT049,Keith Terry,Transactions,Night,7,App Technical Issue,2021-05-11,0
+AGT050,Tommy Jones,Fraud & Security,Afternoon,8,Loan Query,2019-03-01,0
+AGT051,Jessica Campbell,Technical Support,Night,3,Payment Failure,2019-07-05,0
+AGT052,Christine Henry,Fraud & Security,Morning,1,Fraud Alert,2020-12-19,0
+AGT053,Christopher Walker,Technical Support,Night,4,Fraud Alert,2019-04-18,0
+AGT054,Courtney Ortega,Fraud & Security,Morning,2,Fraud Alert,2019-03-15,1
+AGT055,Hunter Lyons,Cards & Payments,Night,8,Account Locked,2019-09-29,0
+AGT056,Mr. Ronald Green,Transactions,Afternoon,4,Refund Request,2021-01-20,1
+AGT057,Charles Mcdonald,Transactions,Night,2,Card Blocked,2021-02-28,0
+AGT058,Stephanie Rowe,Cards & Payments,Night,6,App Technical Issue,2020-05-12,0
+AGT059,Sara Deleon,Technical Support,Night,6,Card Blocked,2021-11-05,0
+AGT060,Jason White,Transactions,Morning,10,KYC Verification,2020-04-13,0
+AGT061,Eric Russell,Cards & Payments,Morning,4,Refund Request,2020-12-17,1
+AGT062,Dr. Joe Merritt,Transactions,Afternoon,6,Fraud Alert,2023-09-02,0
+AGT063,Keith Harris,KYC & Compliance,Morning,2,Payment Failure,2023-06-25,0
+AGT064,Aaron Hardy,Technical Support,Night,10,Refund Request,2020-10-25,0
+AGT065,Michael Fisher,KYC & Compliance,Night,2,Account Locked,2018-07-28,0
+AGT066,Emily Arroyo,Technical Support,Morning,10,Payment Failure,2019-01-14,0
+AGT067,Robert Holland,Cards & Payments,Night,4,Transaction Dispute,2022-10-01,0
+AGT068,Jeffrey Torres,Technical Support,Afternoon,8,Account Locked,2021-02-07,0
+AGT069,John Dougherty,Technical Support,Afternoon,7,Transaction Dispute,2018-06-30,1
+AGT070,Angela Walters,Cards & Payments,Morning,9,Payment Failure,2018-01-15,1
+AGT071,Ryan Mcdaniel,Technical Support,Morning,8,Fraud Alert,2021-09-28,1
+AGT072,Laura Humphrey,Transactions,Afternoon,5,Card Blocked,2019-06-20,1
+AGT073,Renee Garcia,Fraud & Security,Afternoon,2,App Technical Issue,2020-12-08,1
+AGT074,Joseph Porter,Cards & Payments,Morning,5,Refund Request,2019-10-24,0
+AGT075,Kristi Martin,Fraud & Security,Morning,8,Refund Request,2022-12-15,0
+AGT076,Michael Rocha,Cards & Payments,Morning,10,Fraud Alert,2022-10-18,0
+AGT077,Matthew Hernandez,Cards & Payments,Night,9,App Technical Issue,2018-02-09,1
+AGT078,Adam Cortez,KYC & Compliance,Morning,9,Transaction Dispute,2019-04-04,0
+AGT079,Katelyn Cruz,KYC & Compliance,Morning,1,Card Blocked,2018-11-05,0
+AGT080,Tabitha Meyer,Technical Support,Night,9,App Technical Issue,2019-09-03,1
+AGT081,Brenda Flores,Fraud & Security,Afternoon,7,Transaction Dispute,2018-05-28,0
+AGT082,John Roberts,Cards & Payments,Morning,9,App Technical Issue,2022-02-21,0
+AGT083,Crystal Richard,Technical Support,Night,8,KYC Verification,2019-08-30,0
+AGT084,Kevin Hernandez,Transactions,Morning,1,Refund Request,2022-10-27,0
+AGT085,Joseph Green,Cards & Payments,Morning,8,KYC Verification,2019-06-07,0
+AGT086,John Garcia,Transactions,Night,8,App Technical Issue,2018-06-21,0
+AGT087,Amy Alvarado,Technical Support,Afternoon,3,Account Locked,2021-06-16,0
+AGT088,Katherine Hayes,KYC & Compliance,Night,1,Refund Request,2022-02-02,0
+AGT089,Heather Griffin,Technical Support,Morning,8,Card Blocked,2018-06-13,0
+AGT090,Dr. Mary Tucker,Transactions,Afternoon,3,Fraud Alert,2022-01-05,1
+AGT091,Nicole King,Cards & Payments,Night,3,KYC Verification,2020-05-10,0
+AGT092,Karina Goodwin,Fraud & Security,Night,1,Fraud Alert,2020-10-19,0
+AGT093,William Bennett,Technical Support,Afternoon,5,Transaction Dispute,2019-02-26,0
+AGT094,William James,Cards & Payments,Morning,10,General,2021-12-19,0
+AGT095,Tracy Miller,KYC & Compliance,Night,7,Account Locked,2022-07-23,0
+AGT096,Gregory Lynn,KYC & Compliance,Night,10,Transaction Dispute,2019-09-26,1
+AGT097,Justin Williams,KYC & Compliance,Night,9,Loan Query,2020-08-27,0
+AGT098,Jerry Luna,Cards & Payments,Morning,7,Transaction Dispute,2019-10-28,0
+AGT099,David Johnson,Technical Support,Night,9,Transaction Dispute,2019-12-27,0
+AGT100,Robert Wall,Cards & Payments,Afternoon,8,General,2022-08-16,0
